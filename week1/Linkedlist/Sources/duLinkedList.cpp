@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <conio.h>    //getch()
 #include <windows.h>  //Sleep()
+#include "dulinkedlist.h"
+/*
 #define LEN sizeof(struct Node)
 
 //双链节节点结构 
@@ -22,7 +24,7 @@ Node *del(Node *head);   //删除
 Node *insert(Node *head);  //插入 
 void modify(Node *head);   //修改 
 
-
+*/
 int main()
 {
 	Node *head;

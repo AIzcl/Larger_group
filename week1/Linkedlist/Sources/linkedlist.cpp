@@ -2,6 +2,8 @@
 #include <stdlib.h>    //()malloc()
 #include <conio.h>     //getch()
 #include <windows.h>   //Sleep()
+#include "linkedlist.h"
+/*
 #define LEN sizeof(struct Node)
 
 int x = 0;     //定义一个全局变量来代表结点的个数 
@@ -24,9 +26,8 @@ void modify(Node *head);   //修改
 Node *odd_even_exchange(Node *head);  //奇偶位调换位置 
 void find_middle(Node *head);         //查找单链表中点 
 Node *reversal(Node *head);           //反转(递归和非递归-迭代)
-Node *recursion(Node *head);          //递归函数实现反转 
-
-
+Node *recursion(Node *head);          //递归反转 
+*/
 
 
 int main()

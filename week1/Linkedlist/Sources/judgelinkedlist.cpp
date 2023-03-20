@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <conio.h>
 #include <windows.h>
+#include "judgelinkedlist.h" 
+/*
 #define LEN sizeof(struct Node)
 
 //节点结构体 
@@ -14,7 +16,7 @@ typedef struct Node {
 Node *creat(); //用于创建链表并且初始化数据
 void judge(Node *head); //用于判断链表是否成环 
 void menu1();  //主页面菜单 
-
+*/
 
 int main()
 {
